@@ -33,4 +33,4 @@ Ajuda:
 ![](https://github.com/otavioguisilva/Sobre-Mim/blob/main/ADSgifAjuda.gif)
 
 Mais informações em meu Linkedin:
-https://www.linkedin.com/in/ot%C3%A1vio-guimar%C3%A3es-silva-aa0008103/
+https://www.linkedin.com/in/otavioguisilva/
